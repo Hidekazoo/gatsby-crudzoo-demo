@@ -1,0 +1,7 @@
+{
+  "seriesId": "mypage",
+  "title": "my favorite article",
+  "spoiler": "This series is a list of my favorite articles.",
+  "image": "mypage.png",
+  "articles": ["article-1"]
+}
