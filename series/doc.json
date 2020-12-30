@@ -1,7 +1,0 @@
-{
-  "seriesId": "doc",
-  "title": "gatsby-crudzoo document",
-  "spoiler": "This series is the document of gatsby-crudzoo. There is an article explaining setting, how to use",
-  "image": "docs.png",
-  "articles": ["docs-1"]
-}

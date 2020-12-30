@@ -1,20 +1,22 @@
 module.exports = {
   siteMetadata: {
-    language: `en`,
+    language: `en`, // or `ja`
     title: `gatsby-crudzoo demo site`,
-    author: `hidekazoo`,
+    author: `your name`,
+    job: `Engineer`,
     keywords: [`demo`, `gatsby-theme`],
-    description: `This site is demo of gatsby-crudzoo theme`,
+    heroText: `My Blog Site`,
+    description: `site description`,
     siteUrl: `http://example.com`,
-    mainColor: `#e65100`,
     social: {
-      twitter: `crudzoo`
-    }
+      twitter: `your twitter name`,
+    },
+    algoliaSearch: true,
   },
   plugins: [
     {
       resolve: "gatsby-crudzoo",
-      options: {}
-    }
-  ]
-};
+      options: {},
+    },
+  ],
+}
