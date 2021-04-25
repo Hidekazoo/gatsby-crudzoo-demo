@@ -1,0 +1,5 @@
+.checkText {
+  color: var(--primary);
+  padding-bottom: var(--space);
+  border-bottom: 1px solid var(--primary);
+}
